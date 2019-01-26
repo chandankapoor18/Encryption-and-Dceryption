@@ -1,4 +1,4 @@
-# Encryption-and-Dceryption
+# Encryption-and-Decryption
 Des Algorithm to  encrypt and decrypt
 import java.security.spec.KeySpec;
 import javax.crypto.Cipher;
